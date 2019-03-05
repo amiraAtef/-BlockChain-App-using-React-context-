@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,3 +67,10 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+=======
+# -BlockChain-App-using-React-context-
+
+Please After Run npm install 
+Delete @import _variables.sass from 
+this path node_modules\react-bulma-components\lib\components\utils.sass
+>>>>>>> eee530e694ff48658465c080e651ff6f9b580dad
